@@ -1,3 +1,6 @@
+<p align="center">
+  <img width="500" height="450" src="https://github.com/Brijesh03032001/Brijesh03032001/blob/main/brijesh_main.jpeg">
+</p>
 
 <h1 align="center">Hi 👋, I'm Brijesh Kumar</h1>
 
