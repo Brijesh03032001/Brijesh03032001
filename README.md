@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500" height="450" src="https://github.com/Brijesh03032001/Brijesh03032001/blob/main/brijesh_main.jpeg">
+  <img width="500" height="400" src="https://github.com/Brijesh03032001/Brijesh03032001/blob/main/profilePhoto.jpeg" style="border-radius:50%"">
 </p>
 
 <h1 align="center">Hi 👋, I'm Brijesh Kumar</h1>
