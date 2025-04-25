@@ -1,20 +1,27 @@
 
-<p align="center">
-  <img src="https://github.com/Brijesh03032001/Brijesh03032001/blob/main/profilePhoto.jpeg" width="200" style="border-radius: 50%;" alt="Brijesh Kumar">
-</p>
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
-  Hey there, I'm <span style="color:#00FFFF"><b>Brijesh Kumar</b></span> 👨‍💻
-</h1>
+<table>
+  <tr>
+    <td width="250" align="center">
+      <img src="https://github.com/Brijesh03032001/Brijesh03032001/blob/main/github3dBrijesh.png" width="200" style="border-radius: 15px;" alt="Brijesh Kumar"/>
+    </td>
+    <td>
+      <h1>
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
+        Hey there, I'm <span style="color:#00FFFF"><b>Brijesh Kumar</b></span> 👨‍💻
+      </h1>
+      <p>
+        <i><b>Engineer by training, creator by passion.</b> I'm a Graduate Student at ASU blending<br>
+        <b>AI, Computer Vision, and Data Mining</b> to design intelligent systems that solve real-world problems.<br>
+        Driven by curiosity, I love building solutions that are scalable, insightful, and elegant.</i>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <i><b>Engineer by training, creator by passion.</b> I'm a Graduate Student at ASU blending</i><br>
-  <i><b>AI, Computer Vision, and Data Mining</b> to design intelligent systems that solve real-world problems.</i><br>
-  <i>Driven by curiosity, I love building solutions that are scalable, insightful, and elegant.</i>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=Graduate+Student+@+ASU;AI+%7C+ML+%7C+Computer+Vision;Data+Mining+%7C+Big+Data+%7C+DevOps+Engineer;600%2B+LeetCode+Problems+Solved;Top+150+on+CodeChef;Think+Code+Create+Repeat+%F0%9F%94%A5">
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=850&lines=Graduate+Student+@+ASU;AI+%7C+ML+%7C+Computer+Vision;Data+Mining+%7C+Big+Data+%7C+DevOps+Engineer;600%2B+LeetCode+Problems+Solved;Top+150+on+CodeChef;Think+Code+Create+Repeat+%F0%9F%94%A5">
-</p>
+
 
 
 ### 🔍 About Me
