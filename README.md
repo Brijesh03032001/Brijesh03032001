@@ -111,14 +111,5 @@ Built a **cost-efficient maze-solving robot** using IR sensors and the **LSRB (L
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brijesh03032001&show_icons=true&count_private=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brijesh03032001&layout=compact&theme=radical" height="170"/>
-</p>
-
----
-
 > “Think, Create, and Innovate.” 💡  
 > Let’s build something **impactful** together!
