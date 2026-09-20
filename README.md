@@ -4,181 +4,126 @@
 
 # 👋 Hi, I'm Brijesh Kumar
 
-### Full‑Stack Engineer · ML Researcher · Systems Builder  
+### AI Software Engineer · Full‑Stack Developer · Applied ML/GenAI
 **MS Computer Science @ Arizona State University · 4.0 GPA · Tempe, AZ**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-171717?style=for-the-badge&logo=vercel&logoColor=white)](https://brijeshbuilds.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-171717?style=for-the-badge&logo=vercel&logoColor=white)](https://brijeshbuilds.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brijeshkumar03)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bkumar25@asu.edu)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarbrijesh.dev@outlook.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/brijesh03032001)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Brijesh03032001)
 
-**📍 Tempe, AZ · ☎️ 623‑666‑2665 · Open to CPT / OPT · Actively seeking Summer 2026 internships**
+**📍 Tempe, AZ · Graduating December 2026 · Open to full‑time Applied AI / Software Engineering roles**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3178C6&center=true&vCenter=true&width=1000&lines=MS+Computer+Science+%40+ASU+%7C+4.0+GPA;Full-Stack+Engineer+%2B+AI%2FML+Researcher;RAG+%7C+GenAI+%7C+Production+Systems+%7C+10K%2B+Users;Published+Researcher+%7C+Springer+Conference;1000%2B+LeetCode+%7C+Top+0.2%25+CodeKaze;Summer+2026+Internship+Ready+%F0%9F%94%A5">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3178C6&center=true&vCenter=true&width=1000&lines=MS+Computer+Science+%40+ASU+%7C+4.0+GPA;AI+Software+Engineer+%40+EdPlus%2C+ASU;RAG+%7C+Multi-Agent+Systems+%7C+Evaluation+%26+Guardrails;Published+Researcher+%7C+Springer+Conference;Y+Combinator+Startup+School+2026;Graduating+Dec+2026+%7C+Open+to+Full-Time+Roles">
+
+<br/>
+
+![Eval Agreement](https://img.shields.io/badge/Golden--Set_Agreement-89%25-3178C6?style=flat-square)
+![Tool Success](https://img.shields.io/badge/Agent_Tool--Call_Success-97.2%25-3178C6?style=flat-square)
+![CodeKaze](https://img.shields.io/badge/CodeKaze-Top_0.2%25-3178C6?style=flat-square)
+![YC](https://img.shields.io/badge/Y_Combinator-Startup_School_2026-FF6600?style=flat-square)
+![Hackathons](https://img.shields.io/badge/Hackathons-4_placements-3178C6?style=flat-square)
 
 </div>
 
 ---
 
-## 🎯 What I Do
+## 🎯 What I Work On
 
-- **Build production systems** that stay up: sub‑150ms latency, 99.99% uptime, and 10K+ concurrent users.
-- **Ship full‑stack platforms** with Java/Spring Boot, Python/FastAPI, React/Next.js, PostgreSQL, Redis, and AWS.
-- **Design ML & GenAI pipelines** (RAG, forecasting, embeddings) on real‑world data at TB scale.
-- **Work across the stack**: backend architecture, data pipelines, microservices, and frontend UX.
-
----
-
-## 🔬 Current Role · ASU Biodesign Institute
-
-**Machine Learning Research Aide · Jan 2025 – Present · Tempe, AZ**
-
-I work on large‑scale microbiome and clinical datasets to power real‑world healthcare decision‑making:
-
-- Deployed **RAG‑LLM pipelines** with cosine‑similarity vector search on clinical + metagenomic embeddings, improving biomarker discovery precision by **21%** across **3 disease domains**.
-- Built **Python + SQL + Snowflake ETL** on a **1.2TB** microbiome dataset, with skew‑aware partitioning that cut LLM feature prep time by **65%** on nightly AWS training pipelines.
-- Designed **hybrid ARIMA + Random Forest** forecasting pipelines, reaching **92% accuracy** and reducing clinician forecast error by **31%** versus prior baselines.
-- Automated **EDA, hypothesis testing, and statistical modeling** (Python/R) across 1.2TB clinical cohorts, surfacing **17 high‑signal gut taxa** that shaped downstream feature engineering and LLM features.
-- Built **Power BI dashboards** on ETL outputs with KPI layers, cutting reporting turnaround by **40%**, queried daily by **30+ clinical research stakeholders**.
+- **Retrieval and agent systems that have to be right, not just fluent**: RAG pipelines, multi-agent orchestration, and tool-calling agents with evaluation harnesses and grounding checks behind them.
+- **Full-stack products end to end**: React/Next.js and FastAPI/Spring Boot services backed by PostgreSQL, Redis, and pgvector, deployed on AWS with Terraform and CI/CD.
+- **Guardrails over raw capability**: human-in-the-loop confirmation, golden-set evaluation, and failure recovery for systems where a wrong AI action has real cost.
+- **ML on real-world clinical and behavioral data**: forecasting and biomarker-discovery pipelines built with research teams, not just personal projects.
 
 ---
 
-## 💼 Software Engineering Experience
+## 💼 Experience
 
-### EdPlus @ Arizona State University · Software Developer  
+### EdPlus at Arizona State University · AI Software Engineer
 **Sep 2025 – Present · Tempe, AZ**
 
-- Built **GenAI tutoring and content pipelines** with **AWS Bedrock + Amazon SageMaker**, delivering adaptive tutoring, AI content recommendations, and quiz generation for **10K+ ASU Online learners**, boosting engagement by **28%**.
-- Developed **Student Enrollment Service** in **Java Spring Boot** (registration, seat allocation, waitlists), reducing REST API latency by **42%** through query optimization and profiling.
-- Implemented **Course Delivery & Notification Services** with async Spring and **AWS Lambda** triggers on S3‑backed content pipelines, increasing throughput by **35%** and delivering real‑time grade alerts and deadline reminders.
-- Automated infra (EC2, IAM, VPC, Lambda) using **Terraform**, eliminating config drift and cutting provisioning time by **60%**.
-- Designed **GitHub Actions CI/CD** with tests, lint gates, and zero‑downtime deploys, improving release velocity by **2.1×**.
+- Shipped the customer-facing React and Next.js web application used in 100+ recorded sessions, resolving natural-language queries to exact timestamps in under 3 seconds via a pgvector-backed vector store over 10,000+ embeddings and three coordinated LangChain agents.
+- Confirmed 89% agreement with a manually labeled golden set of 300+ video chunks with an evaluation harness and a hard editor-confirmation guardrail, holding unauthorized AI deletions at zero in production.
+- Sustained p95 latency under 3 seconds at 10+ concurrent chunk-processing jobs over 15+ async FastAPI REST endpoints spanning 4 core workflow areas and background task orchestration.
+- Slashed infrastructure setup time 60% provisioning S3, IAM, ECS Fargate, and Lambda through Terraform across 4 AWS resource groups, sustaining 99.5%+ uptime with CloudWatch alerting behind an autoscaling load balancer.
+- Added a CLIP embedding step on a SageMaker endpoint over frames sampled from silent transcript gaps, making screen-share and whiteboard moments searchable by text query — CLIP is a pretrained vision-language model; the gap detection, frame sampling, and merge logic are mine.
 
-### AWL Metaverse Pvt. Ltd. · Software Engineer  
+### ASU Biodesign Institute · Machine Learning Research Analyst
+**Feb 2025 – Present · Tempe, AZ**
+
+- Traveled on-site to 3 partner clinics (60–80 patients each) to learn clinician workflows, then configured and deployed a RAG-LLM document-search product over ~2,000 indexed PDF documents, validating retrieval behavior with live users and training them directly.
+- Cut unsupported clinical-answer claims 35% against an ungrounded baseline, across 560 clinical questions labeled by clinicians and Dr. Nirmalkar's team, by having the LLM tool-call a FAISS retrieval function followed by a grounding-check function inside an evaluation loop.
+- Lifted biomarker-discovery precision 21% across 3 research domains with a RAG pipeline combining FAISS cosine-similarity retrieval over clinical, metagenomic, and literature embeddings.
+- Built a Python + SQL + Snowflake ETL pipeline on a 1.2TB microbiome dataset with skew-aware partitioning, cutting LLM feature-prep time 65% on nightly AWS training runs and surfacing 17 high-signal gut taxa that shaped downstream feature engineering.
+- Designed hybrid ARIMA + Random Forest forecasting pipelines reaching 92% accuracy (31% lower clinician forecast error vs. prior baselines), and built Power BI dashboards that cut reporting turnaround 40% for 30+ clinical research stakeholders.
+
+### AWL Metaverse Pvt. Ltd. · Software Engineer
 **Mar 2024 – Dec 2024 · India**
 
-- Built **Dockerized FastAPI microservices** for auth, enrollment, and assignments on **AWS EC2**, cutting deployment cycles by **45%**.
-- Scheduled Cron‑based automation for progress reports and deadline reminders, reducing manual ops by **40%**.
-- Secured APIs with **JWT/OAuth2 + Pydantic validation**, reducing invalid requests by **80%** and improving data integrity.
-- Designed **PostgreSQL schemas** with compound indexes and JSONB fields, improving query performance **3×** and cutting p99 latency by **40%**.
+- Sustained smooth playback for 5,000+ concurrent video sessions with a React and TypeScript student video player built on chunk-based streaming and adaptive buffering across a full EdTech platform.
+- Trimmed mobile bounce rate 25% by building responsive React components across video, quiz, and chatbot modules, validated with Jest and React Testing Library at 82% test coverage.
+- Built Dockerized FastAPI microservices for auth, enrollment, and assignments on AWS EC2 — cutting deployment cycles 45% and manual reporting/reminder ops 40% via Cron-based automation.
+- Secured APIs with JWT/OAuth2 and Pydantic validation (cutting invalid requests 80%), and designed PostgreSQL schemas with compound indexes and JSONB fields, improving query performance 3× and cutting p99 latency 40%.
 
-### Quicket Solutions · Software Developer  
-**Mar 2023 – Mar 2024 · India**
+### Quicket Solutions · Software Developer (promoted from Intern)
+**Software Developer: Mar 2023 – Mar 2024 · Intern: Oct 2022 – Feb 2023 · India**
 
-- Built **15+ React components** for Stripe checkout (card input, 3DS, confirmation), increasing payment success rates by **30%**.
-- Implemented **Redis caching** on high‑traffic payment endpoints, reducing DB load by **60%** and end‑to‑end latency by **40%**.
-- Designed **GraphQL + REST APIs** with batching, retries, and circuit breakers, improving inter‑service reliability by **42%**.
-
-**Software Developer Intern · Oct 2022 – Feb 2023**
-
-- Developed **serverless ETL pipelines** with **AWS Lambda, S3, RDS**, improving processing efficiency by **35%**.
-- Provisioned EC2, IAM, and VPC via **Terraform**, cutting environment setup time by **50%**.
-- Shipped **10+ REST APIs** and removed N+1 queries via indexed joins, cutting average API response time by **35%**; awarded **Best Intern**.
+- Improved inter-service reliability to 99.6% with Redis caching and circuit-breaker patterns adopted across three engineering teams, cutting database load 60% during concurrent traffic spikes.
+- Strengthened payment-data integrity behind REST APIs through indexed PostgreSQL schema design, idempotency-key handling, and Stripe-to-ledger reconciliation, eliminating duplicate charges during network-timeout retries.
+- Built 15+ React components for Stripe checkout (card input, 3DS, confirmation), lifting payment success rates 30%, and removed N+1 queries via indexed joins, cutting average API response time 35%.
+- As an intern, developed serverless ETL pipelines with AWS Lambda, S3, and RDS (35% efficiency gain) and provisioned EC2/IAM/VPC via Terraform (50% faster environment setup) — awarded Best Intern.
 
 ---
 
-## 🧩 Selected Systems & Projects
+## 🗂️ Selected Projects
 
-> A few projects that represent how I design, build, and ship systems end‑to‑end.
+### 🌮 [FoodPilot AI](https://github.com/Brijesh03032001/foodai) — Agentic Food-Truck Marketplace
+**Stack:** Next.js · Spring Boot · FastAPI · LangChain · LangGraph · ChromaDB
+A four-tier food-truck marketplace with an AI concierge for customers and an AI operations copilot for owners, over 107 trucks, 635 dishes, and 150 reviews. A ReAct Owner Copilot calls a SQL sales-stats tool and a vector review-search tool to answer "why did sales drop?"; a deterministic Order Builder validates every generated order line against 2,622 real modifiers, flagging each as applied or rejected with a reason, with a human confirming before checkout.
 
-### 🔹 TrustmedAi – Advanced Medical RAG Platform
+### 👻 [Ghosty](https://github.com/Brijesh03032001/Ghosty_A_Conference_helper) — Conference Follow-Up Assistant
+**Stack:** React Native (Expo) · OpenAI Whisper · Anthropic Claude
+A voice-first mobile app that turns a 15-second voice memo after a conversation into a structured contact card with a transparent "Connection Value Score" and an AI-drafted, context-aware follow-up. Winner, Kiro Spark Challenge 2026 (ASU, 24-hour AWS-sponsored hackathon).
 
-**Stack:** Python · FastAPI · LangChain · FAISS / Vector DB · AWS  
-**Focus:** Clinical QA and biomarker discovery support using retrieval‑augmented generation.
+### 📚 [StudySliceAI](https://github.com/Brijesh03032001/StudySliceAI) — Lecture-to-Study-Clips Pipeline
+**Stack:** AWS S3 · AWS Transcribe · FFmpeg
+Turns long recorded lectures into short, focused study clips: uploads to S3, transcribes with AWS Transcribe, identifies key concepts, and cuts clips with FFmpeg. Runner-up, SunHacks 2025 (Education Track).
 
-- Designed an **end‑to‑end RAG pipeline** over medical PDFs, guidelines, and structured cohorts to answer clinician‑style queries with grounded citations.
-- Implemented **chunking, embedding, reranking, and prompt strategies** to reduce hallucinations and keep responses tied to validated sources.
-- Integrated evaluation scripts and prompt sets to systematically compare retrieval strategies and prompt templates.
+### 👗 [StyleNova-AI](https://github.com/Brijesh03032001/StyleNova-AI) — Vision-Language Outfit Recommender
+**Stack:** Python · PyTorch · OpenAI CLIP · FastAPI · Next.js
+A recommender that blends CLIP image/text embeddings with a per-user preference vector (built from swipe likes/dislikes with exponential decay) behind a swipe-based UI. CLIP is a pretrained vision-language model that embeds images and text into a shared space, not an object detector — the preference-blending logic, swipe feedback loop, and serving layer are mine.
 
-> GitHub: `TrustmedAi` (Advanced RAG system)
+### 🤖 [SlackAgent](https://github.com/Brijesh03032001/SlackAgent) — Slack + GitHub + Notion AI Agent
+**Stack:** TypeScript · Node.js · OpenAI GPT-4o · Model Context Protocol · ChromaDB · mem0.ai
+Exposes 59 tools to one GPT-4o agent — 12 Slack tools I wrote directly, plus 47 more (26 GitHub, 21 Notion) via off-the-shelf MCP servers — reaching a 97.2% tool-call success rate across 100+ concurrent conversations, with RAG over indexed Slack history and long-term memory via mem0.
 
----
+### 🕸️ [Nexus](https://github.com/Brijesh03032001/Nexus) — Smart Contact Manager
+**Stack:** Next.js · TypeScript · Convex · Clerk · Anthropic Claude
+A CRM for professional relationships with a rule-based contact-deduplication engine (Levenshtein distance + email/phone/company matching, 0–100% confidence scoring) on Convex, with Clerk auth. Claude 3.5 Sonnet powers email-draft generation and search-query parsing; the in-app assistant chat is currently a scaffolded/demo response layer, not yet wired to a live model call.
 
-### 🔹 StudySliceAI – AI Study Copilot on AWS
-
-**Stack:** Next.js / React · Python / FastAPI · AWS (Lambda, API Gateway, S3, RDS or DynamoDB)  
-**Focus:** Personal study assistant that organizes notes, generates quizzes, and explains concepts using GenAI.
-
-- Built a **full‑stack learning platform** where students upload content and receive AI‑generated summaries, flashcards, and practice questions.
-- Deployed backend services on **AWS** with API Gateway + Lambda and persistent storage, designing APIs for session management, content ingestion, and retrieval.
-- Implemented authentication, role‑based access, and a responsive UI so the app feels like a polished SaaS product rather than a demo.
-
-> GitHub: `StudySliceAI`
-
----
-
-### 🔹 SlackAgent – Multi‑Agent Dev Productivity Copilot
-
-**Stack:** Python · FastAPI · LangChain / OpenAI · Slack, GitHub, Notion APIs  
-**Focus:** “Open‑claw–style” agent that connects Slack, GitHub, and Notion to answer questions and automate workflows.
-
-- Orchestrated **multi‑tool agents** that can read Slack threads, fetch GitHub issues/PRs, and query Notion docs to answer “what’s going on with X?” in one place.
-- Implemented tool abstractions for each integration (Slack, GitHub, Notion) and an orchestration layer to route user intent to the right tools.
-- Designed the system so teams can plug it into their existing Slack workspace and immediately get value without heavy setup.
-
-> GitHub: `SlackAgent`
-
----
-
-### 🔹 Nexus – Smart Contact Graph for Business Networks
-
-**Stack:** Java · Spring Boot · AWS Bedrock · FAISS · Redis · Apache Kafka  
-**Focus:** AI‑enhanced contact manager and relationship graph for business networking.
-
-- Built an **event‑driven microservices architecture** with Kafka, aggregating contact events across systems into a unified graph.
-- Integrated **AWS Bedrock** + FAISS to embed contact metadata and surface high‑value relationships, improving contact matching accuracy by **70%**.
-- Tuned pipelines to deliver **sub‑3 second** network analysis queries at scale using Redis caching and optimized queries.
-
-> GitHub: `Nexus`
-
----
-
-### 🔹 FashionRecommender – Real‑Time Vision‑Based Outfit Engine
-
-**Stack:** Python · FastAPI · CLIP · ResNet50 · AWS  
-**Focus:** Real‑time fashion recommendation using image embeddings and similarity search.
-
-- Built a **computer‑vision‑powered recommendation system** that serves personalized outfit suggestions in production.
-- Optimized for **<150ms** response times for **10K+ concurrent users** with **99.99% uptime**, using efficient batching and model serving on AWS.
-- Improved user engagement by **32%** with targeted recommendations versus simple rule‑based suggestions.
-
-> GitHub: `FashionRecommender`
+### 🍽️ [SwiggyAnalysis](https://github.com/Brijesh03032001/SwiggyAnalysis) — Swiggy Market Intelligence Engine
+**Stack:** Python · Pandas · Plotly · Streamlit · SQLite
+A market-intelligence dashboard analyzing food-delivery order data for growth-team decision support.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Backend & Systems**
+**Frontend & Product**
+`React` · `Next.js` · `TypeScript` · `Redux` · `Tailwind CSS` · `Jest` · `React Testing Library`
 
-- Languages: `Python` · `Java` · `TypeScript` · `JavaScript`  
-- Frameworks: `Spring Boot` · `FastAPI` · `Flask` · `Node.js`  
-- Architectures: `Microservices` · `REST` · `GraphQL` · `Event‑Driven`  
-- Messaging & Caching: `Apache Kafka` · `Redis` · `Redis Pub/Sub`  
-- Testing: `Pytest` · `JUnit` · `Jest`
+**Backend, APIs & Data**
+`Python` · `FastAPI` · `Java` · `Spring Boot` · `REST APIs` · `PostgreSQL` · `Redis` · `Convex`
 
-**Frontend & UX**
+**LLM Product & Agents**
+`LangChain` · `LangGraph` · `Model Context Protocol` · `Multi-Agent Orchestration` · `Tool Calling` · `RAG` · `FAISS` · `ChromaDB` · `pgvector` · `CLIP`
 
-- Frameworks: `React` · `Next.js`  
-- Styling & UI: `Tailwind CSS` · `shadcn/ui` · `Material‑UI` · `Ant Design` · `Chakra UI`  
-- Patterns: Responsive design, Progressive Web Apps, dashboard‑driven UX
+**Evaluation, Reliability & Safety**
+Evaluation Harnesses · Golden Sets · Grounding · Guardrails · Human-in-the-Loop · Concurrency · Failure Recovery
 
-**AI/ML & Data**
-
-- Libraries: `PyTorch` · `TensorFlow` · `Keras` · `scikit‑learn` · `Pandas` · `NumPy`  
-- GenAI & NLP: `Hugging Face` · `LangChain` · `RAG` · `Vector Embeddings`  
-- CV: `OpenCV` · `CLIP` · `ResNet`  
-- Big Data: `PySpark`  
-- MLOps: `MLflow` · `Weights & Biases`  
-- Analytics & Viz: `Power BI` · `Tableau` · `Matplotlib` · `D3.js`  
-
-**Cloud, DevOps & Infra**
-
-- Cloud: `AWS` · `GCP` · `Vercel`  
-- Orchestration & Containers: `Docker` · `Kubernetes`  
-- IaC & CI/CD: `Terraform` · `GitHub Actions` · `Jenkins`  
-- Monitoring: `CloudWatch` · `Prometheus` · `Grafana` · `New Relic`  
-- Databases: `PostgreSQL` · `MongoDB` · `SQLite`  
+**Cloud & Delivery**
+`AWS` (EC2, S3, ECS Fargate, Lambda, SageMaker, Bedrock) · `Terraform` · `Docker` · `GitHub Actions` · `CloudWatch`
 
 ---
 
@@ -186,23 +131,32 @@ I work on large‑scale microbiome and clinical datasets to power real‑world h
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════════════╗
+║                      HACKATHONS & COMPETITIONS (4)                           ║
+╠═══════════════════════════════════════════════════════════════════════════════╣
+║  🥇  Winner — Kiro Spark Challenge 2026 (ASU × AWS, 24-hour build) → Ghosty ║
+║  🥇  Winner — CrozeAI Hackathon                                             ║
+║  🥉  Top 3 — EmotiSphere Hackathon                                          ║
+║  🥈  Runner-up — SunHacks 2025, Education Track → StudySliceAI             ║
+║  🎯  Finalist — JPMorgan Code for Good 2024                                 ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+
+╔═══════════════════════════════════════════════════════════════════════════════╗
 ║                         COMPETITIVE PROGRAMMING                              ║
 ╠═══════════════════════════════════════════════════════════════════════════════╣
 ║  🥇  Top 0.2% in CodeKaze — Rank 315 out of 150,000 participants            ║
 ║  🧩  1,000+ LeetCode Problems Solved (C++)                                   ║
-║  🏆  Hackathon Champion (4×) — top 1% out of 10,000+ participants           ║
-║  🎯  Finalist: JPMorgan Code for Good 2024                                  ║
+║  ✅  HackerRank — Problem Solving (Intermediate), Jul 2024                  ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 
 ╔═══════════════════════════════════════════════════════════════════════════════╗
-║                        RESEARCH & CERTIFICATIONS                             ║
+║                RESEARCH, CERTIFICATIONS & STARTUP PROGRAMS                    ║
 ╠═══════════════════════════════════════════════════════════════════════════════╣
-║  📄  Research Publication — "Early Dementia Detection via ANN Segmentation" ║
-║      Published in Springer · Cited across academic repositories             ║
-║  🎓  IBM Data Science Certificate (Coursera) — Top 5% globally              ║
-║  🧠  Deep Learning Specialization (DeepLearning.AI)                          ║
-║      CNNs · RNNs · NLP · Optimization for real-world AI systems             ║
-║  🌍  Open Source — Hacktoberfest 2025 · 6+ merged PRs across OSS repos     ║
+║  📄  Springer Publication — "Early Dementia Detection and Classification    ║
+║      of Stage by Efficient Segmentation and Artificial Neural Network"      ║
+║  🚀  Accepted — Y Combinator Startup School 2026                            ║
+║  🎓  Data Science Professional Certificate — IBM                            ║
+║  🧠  Deep Learning Professional Certificate — DeepLearning.AI               ║
+║  🌍  Open Source Super Contributor — Hacktoberfest 2025 · 6+ merged PRs    ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -222,20 +176,20 @@ I work on large‑scale microbiome and clinical datasets to power real‑world h
 
 ---
 
-## 🤝 Let’s Build Something
+## 🤝 Let's Build Something
 
-**I’m actively seeking Summer 2026 internships (Backend · Full‑Stack · AI/ML).**  
+**Graduating December 2026, open to full-time Applied AI / Software Engineering roles.**
 
-- ✅ **CPT/OPT eligible**  
-- 📍 Tempe / Phoenix, AZ (open to relocation)  
-- 🎯 Interested in scalable systems, GenAI products, and data‑driven platforms that actually ship to users  
+- 📍 Tempe / Phoenix, AZ (open to relocation)
+- 🎯 Interested in retrieval systems, multi-agent products, and data-driven platforms that ship to real users
+- 🎓 Authorized to work in the U.S. on OPT following graduation
 
-If you’re building something ambitious and need someone who can own the path from **data → models → backend → production**, I’d love to chat.
+If you're building something ambitious and need someone who can own the path from **data → models → backend → production**, I'd love to chat.
 
-</br>
+<br/>
 
 <div align="center">
 
-**“I build systems that scale and solve problems that matter.”**  
+**"I build systems that scale and solve problems that matter."**
 
 </div>
