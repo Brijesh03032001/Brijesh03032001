@@ -202,7 +202,7 @@ A ReAct owner copilot answers "why did sales drop?" by calling a SQL sales tool 
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brijesh03032001&show_icons=true&hide_border=true&theme=transparent&title_color=0969DA&icon_color=3178C6&text_color=7D8590)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brijesh03032001&layout=compact&hide_border=true&theme=transparent&title_color=0969DA&text_color=7D8590)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brijesh03032001&layout=compact&hide_border=true&theme=transparent&title_color=0969DA&text_color=7D8590&langs_count=8&hide=jupyter%20notebook,html,css,scss,hcl,tsql,php)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Brijesh03032001&hide_border=true&theme=transparent&ring=0969DA&fire=C44F00&currStreakLabel=0969DA)
 
