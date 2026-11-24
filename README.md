@@ -4,11 +4,13 @@
 
 # Hi, I'm Brijesh Kumar 👋
 
-### AI Software Engineer · Full-Stack · Applied ML & GenAI
+### AI Software Engineer — RAG, multi-agent systems, and the evaluation that keeps them honest
 
 **M.S. Computer Science @ Arizona State University · 4.0 / 4.0 · Graduating December 2026**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1100&color=3178C6&center=true&vCenter=true&width=940&lines=AI+Software+Engineer+%40+EdPlus%2C+Arizona+State+University;ML+Research+Analyst+%40+ASU+Biodesign+Institute;RAG+%7C+Multi-Agent+Systems+%7C+Evaluation+%26+Guardrails;Sole-author+Springer+publication%2C+presented+in+Amsterdam;Y+Combinator+Startup+School+2026;Open+to+full-time+roles+from+December+2026" alt="What I do" />
+
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-171717?style=for-the-badge&logo=vercel&logoColor=white)](https://brijeshbuilds.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/brijeshkumar03)
@@ -16,50 +18,74 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-B36B00?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/brijesh03032001)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Brijesh03032001)
 
-</div>
-
----
-
-<div align="center">
-
-### ▶️ Twelve seconds, in my own words
-
-<img src="assets/brijesh-intro.gif" alt="Brijesh introducing himself and his projects" width="260" />
-
-**[Watch it with sound on brijeshbuilds.com →](https://brijeshbuilds.com)**
-
-</div>
-
----
-
-## ⚡ Right now
-
-|  |  |
-|---|---|
-| 🛠️ **Building** | Agentic video search and evaluation harnesses at **EdPlus**, grounded clinical RAG and forecasting pipelines at **ASU Biodesign** |
-| 🎓 **Finishing** | M.S. Computer Science at Arizona State University, **4.0 / 4.0**, December 2026 |
-| 📍 **Based** | Tempe, AZ for my final semester — most weeks in San Francisco, happy to relocate there |
-| 💼 **Open to** | Full-time Applied AI / Software Engineering roles from December 2026 · authorized to work in the U.S. on OPT |
-
-<div align="center">
+<br/>
 
 ![Golden-set agreement](https://img.shields.io/badge/Golden--set_agreement-89%25-3178C6?style=flat-square)
 ![Agent tool-call success](https://img.shields.io/badge/Agent_tool--call_success-97.2%25-3178C6?style=flat-square)
+![Unauthorized AI deletions](https://img.shields.io/badge/Unauthorized_AI_deletions-zero_in_prod-2EA043?style=flat-square)
 ![CodeKaze](https://img.shields.io/badge/CodeKaze-Top_0.2%25-3178C6?style=flat-square)
-![LeetCode](https://img.shields.io/badge/LeetCode-1%2C000%2B_solved-3178C6?style=flat-square)
+![LeetCode solved](https://img.shields.io/badge/LeetCode-1%2C000%2B_solved-3178C6?style=flat-square)
 ![Y Combinator](https://img.shields.io/badge/Y_Combinator-Startup_School_2026-C44F00?style=flat-square)
-![Hackathons](https://img.shields.io/badge/Hackathons-5_placements-3178C6?style=flat-square)
 
 </div>
 
 ---
 
-## 🎯 What I work on
+> [!IMPORTANT]
+> **Open to full-time Applied AI / Software Engineering roles from December 2026.**
+> Authorized to work in the U.S. on OPT · based in Tempe, AZ for my final semester, most weeks in San Francisco, happy to relocate.
+> Right now I'm building agentic video search and evaluation harnesses at **EdPlus**, and grounded clinical RAG and forecasting pipelines at **ASU Biodesign**.
 
-- **Retrieval and agent systems that have to be *right*, not just fluent** — RAG pipelines, multi-agent orchestration and tool-calling agents with evaluation harnesses and grounding checks behind them.
-- **Guardrails over raw capability** — human-in-the-loop confirmation, golden-set evaluation and failure recovery for systems where a wrong AI action has real cost.
-- **Full-stack products, end to end** — React/Next.js with FastAPI and Spring Boot services over PostgreSQL, Redis and pgvector, deployed on AWS with Terraform and CI/CD.
-- **ML on real clinical and behavioural data** — forecasting and biomarker-discovery pipelines built alongside research teams, not only personal projects.
+---
+
+## 🎯 Hiring for something specific? Start here
+
+| If you're hiring for… | Go straight to | What it proves |
+|---|---|---|
+| **AI / LLM engineering** | [SlackAgent](https://github.com/Brijesh03032001/SlackAgent) · [Aria](https://github.com/Brijesh03032001/Aria) · [TrustMed-AI](https://github.com/Brijesh03032001/TrustmedAi) | 59 tools through one MCP client at **97.2%** success · a 5-agent voice supervisor under **1 s** · grounded medical RAG with a **100-prompt** eval suite |
+| **Backend / distributed systems** | [Nexus](https://github.com/Brijesh03032001/Nexus) · [QuarkCache](https://github.com/Brijesh03032001/quark-cache) | 4 Spring Boot services on Kafka with a **sub-50 ms** write path · a Redis-like C++17 store with epoll/kqueue, AOF and crash recovery |
+| **Data / platform engineering** | [merger-lakehouse](https://github.com/Brijesh03032001/merger-lakehouse) · [eduMorph](https://github.com/Brijesh03032001/eduMorph) | **20M rows in 584 s** with entity resolution at **99.4%** precision · **1,000+ events/sec** through Azure into Synapse |
+| **ML / data science** | [RetailForecastAI](https://github.com/Brijesh03032001/RetailForecastAI) · [churnopt](https://github.com/Brijesh03032001/churnopt) | **16.92% MAPE** beating four baselines · churn probabilities calibrated to **0.020 ECE** and turned into a profit-backed contact policy |
+| **Full-stack product** | [FoodPilot AI](https://github.com/Brijesh03032001/foodai) · [StudySliceAI](https://github.com/Brijesh03032001/StudySliceAI) | Next.js + Spring Boot + FastAPI in one product · a 3-hour lecture cut to **6–7 minutes** on autoscaled AWS |
+| **Cloud / DevOps / SRE** | [KubeGuard](https://github.com/Brijesh03032001/KubeGuard) · [StudySliceAI](https://github.com/Brijesh03032001/StudySliceAI) | Pod memory anomalies predicted **before** the limit breaks, feeding the HPA · 6 AWS resource groups in Terraform with CI/CD |
+
+Every repo above has an architecture diagram, the engineering decisions behind it, and measured results — not just a stack list.
+
+---
+
+## 🧰 Tech stack
+
+<div align="center">
+
+**Languages**
+
+[![Languages](https://skillicons.dev/icons?i=py,ts,java,cpp,js,go,cs&perline=7)](https://skillicons.dev)
+
+**AI, agents & retrieval**
+
+`LangChain` · `LangGraph` · `Model Context Protocol` · `Multi-Agent Orchestration` · `Tool Calling` · `RAG` · `FAISS` · `ChromaDB` · `pgvector` · `mem0` · `AWS Bedrock` · `CLIP`
+
+[![AI](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,anaconda&perline=4)](https://skillicons.dev)
+
+**Evaluation, reliability & safety**
+
+`Evaluation Harnesses` · `Golden Sets` · `Grounding Checks` · `Guardrails` · `Human-in-the-Loop` · `PII Detection` · `Circuit Breakers` · `Dead-Letter Queues` · `Idempotency`
+
+**Backend & data**
+
+[![Backend](https://skillicons.dev/icons?i=fastapi,spring,nodejs,express,flask,postgres,redis,mongodb,kafka,rabbitmq,elasticsearch&perline=11)](https://skillicons.dev)
+
+`Snowflake` · `Databricks` · `Delta Lake` · `PySpark` · `Apache Airflow` · `dbt` · `BigQuery`
+
+**Frontend**
+
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,threejs,electron&perline=6)](https://skillicons.dev)
+
+**Cloud & delivery**
+
+[![Cloud](https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,githubactions,grafana,prometheus,git,linux&perline=11)](https://skillicons.dev)
+
+</div>
 
 ---
 
@@ -77,27 +103,23 @@
 
 - Travelled on-site to **3 partner clinics** (60–80 patients each) to learn clinician workflows, then deployed a **RAG-LLM** document search product over ~2,000 indexed PDFs, validating retrieval with live users and training them directly.
 - Cut unsupported clinical-answer claims **35%** against an ungrounded baseline across **560 clinician-labelled questions**, by having the LLM tool-call a **FAISS** retrieval function followed by a grounding check inside an evaluation loop.
-- Built a Python + SQL + **Snowflake** ETL pipeline over a **1.2 TB** microbiome dataset with skew-aware partitioning, cutting LLM feature-prep time **65%** and surfacing **17 high-signal gut taxa** that shaped downstream feature engineering.
+- Built a Python + SQL + **Snowflake** ETL pipeline over a **1.2 TB** microbiome dataset with skew-aware partitioning, cutting LLM feature-prep time **65%** and surfacing **17 high-signal gut taxa**.
 
 ### AWL Metaverse Pvt. Ltd. — Software Engineer
 `Mar 2024 – Dec 2024 · India`
 
 - Sustained smooth playback for **5,000+ concurrent video sessions** with a React and TypeScript student player built on chunk-based streaming and adaptive buffering.
-- Built Dockerized **FastAPI** microservices for auth, enrollment and assignments on AWS EC2, cutting deployment cycles **45%** and manual reporting operations **40%**.
-- Secured APIs with **JWT/OAuth 2.0** and Pydantic validation (invalid requests down **80%**), and designed PostgreSQL schemas with compound indexes and JSONB fields, improving query performance **3×**.
+- Secured **FastAPI** microservices with **JWT/OAuth 2.0** and Pydantic validation (invalid requests down **80%**), and designed PostgreSQL schemas with compound indexes and JSONB fields, improving query performance **3×**.
 
 ### Quicket Solutions — Software Developer *(promoted from Intern)*
 `Software Developer: Mar 2023 – Mar 2024 · Intern: Oct 2022 – Feb 2023 · India`
 
 - Improved inter-service reliability to **99.6%** with **Redis** caching and circuit-breaker patterns adopted across three engineering teams, cutting database load **60%** during traffic spikes.
-- Strengthened payment-data integrity behind REST APIs through indexed PostgreSQL schema design, idempotency-key handling and **Stripe**-to-ledger reconciliation, eliminating duplicate charges on network-timeout retries.
-- Built 15+ React components for Stripe checkout, lifting payment success rates **30%**, and removed N+1 queries via indexed joins, cutting average API response time **35%**. Awarded **Best Intern**.
+- Strengthened payment-data integrity through indexed PostgreSQL schema design, idempotency keys and **Stripe**-to-ledger reconciliation, eliminating duplicate charges on network-timeout retries. Awarded **Best Intern**.
 
 ---
 
-## 🗂️ Selected projects
-
-> Every repo below has an architecture diagram, the engineering decisions behind it, and measured results.
+## 🗂️ Projects
 
 ### 🤖 [SlackAgent](https://github.com/Brijesh03032001/SlackAgent) — Slack · GitHub · Notion AI agent
 `TypeScript · Node.js · OpenAI GPT-4o · MCP · ChromaDB · mem0`
@@ -148,22 +170,6 @@ A ReAct owner copilot answers "why did sales drop?" by calling a SQL sales tool 
 
 ---
 
-## 🛠️ Tech stack
-
-**Languages** `Python` `TypeScript` `Java` `JavaScript` `SQL` `C++` `Go` `C#`
-
-**LLM products & agents** `LangChain` `LangGraph` `Model Context Protocol` `Multi-Agent Orchestration` `Tool Calling` `RAG` `FAISS` `ChromaDB` `pgvector` `CLIP` `AWS Bedrock`
-
-**Evaluation & safety** Evaluation harnesses · Golden sets · Grounding checks · Guardrails · Human-in-the-loop · PII detection · Failure recovery
-
-**Frontend** `React` `Next.js` `Redux` `Tailwind CSS` `Jest` `React Testing Library`
-
-**Backend & data** `FastAPI` `Spring Boot` `Node.js` `REST` `PostgreSQL` `Redis` `Kafka` `RabbitMQ` `MongoDB` `Snowflake` `Databricks` `Delta Lake` `PySpark`
-
-**Cloud & delivery** `AWS` (EC2, S3, ECS Fargate, Lambda, SageMaker, Bedrock) · `Azure` · `GCP` · `Terraform` · `Docker` · `Kubernetes` · `GitHub Actions` · `CloudWatch`
-
----
-
 ## 🏆 Achievements
 
 **Research & recognition**
@@ -201,7 +207,7 @@ A ReAct owner copilot answers "why did sales drop?" by calling a SQL sales tool 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brijesh03032001&show_icons=true&hide_border=true&theme=transparent&title_color=0969DA&icon_color=3178C6&text_color=7D8590)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brijesh03032001&show_icons=true&hide=stars,issues&hide_rank=true&hide_border=true&theme=transparent&title_color=0969DA&icon_color=3178C6&text_color=7D8590)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brijesh03032001&layout=compact&hide_border=true&theme=transparent&title_color=0969DA&text_color=7D8590&langs_count=8&hide=jupyter%20notebook,html,css,scss,hcl,tsql,php)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Brijesh03032001&hide_border=true&theme=transparent&ring=0969DA&fire=C44F00&currStreakLabel=0969DA)
@@ -212,7 +218,7 @@ A ReAct owner copilot answers "why did sales drop?" by calling a SQL sales tool 
 
 ## 🤝 Let's build something
 
-I like problems where the hard part is making a system **trustworthy**, not just making it work once — where a wrong answer costs something, and someone has to be able to check it.
+I like problems where the hard part is making a system **trustworthy**, not just making it work once — where a wrong answer costs something, and someone has to be able to check it. That's why most of what I build ships with an evaluation harness, a guardrail, or a reconciliation step beside it.
 
 If you're building something ambitious and want someone who can own the path from **data → models → backend → production**, I'd love to talk.
 
